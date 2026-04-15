@@ -1,0 +1,20 @@
+Step 1: Access the Dataset
+1. Navigate to the dataset page: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345
+2. You may be prompted to create a free Box account or log in to access the files.
+
+Step 2: Download the Dataset
+1. Once logged in, locate the dataset folder containing the chest X-ray images and metadata files.
+2. Click the “Download” button (or download individual files if needed). 
+3. Note that the dataset is large (50+ GB), so ensure you have:
+    - Sufficient storage space
+    - A stable internet connection
+4. After downloading, extract any compressed files (.zip archives).
+
+Step 3: Organize the Files
+1. Place all extracted image folders and metadata files into your project directory.
+2. Ensure the directory structure matches what your code expects (image folders and CSV/data files in the correct relative paths).
+
+Step 4: Use the Dataset
+1. Open the project notebook or script.
+2. Update file paths if necessary to point to the downloaded dataset location.
+3. Run the code to load, preprocess, and analyze the chest X-ray data.
