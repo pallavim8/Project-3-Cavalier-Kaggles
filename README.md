@@ -12,25 +12,26 @@ We performed all data cleaning, preprocessing, exploratory analysis, and modelin
 
 ### Required Packages
 The following Python packages are required to run the notebook:
--os
--numpy
--pandas
--matplotlib.pyplot
--PIL
--collections
--torch
--torch.nn
--torch.optim
--torch.utils.data
--torchvision
--sklearn.model_selection
--sklearn.metrics
+- os
+- numpy
+- pandas
+- matplotlib.pyplot
+- PIL
+- collections
+- torch
+- torch.nn
+- torch.optim
+- torch.utils.data
+- torchvision
+- sklearn.model_selection
+- sklearn.metrics
+- urllib
 
 All packages can be install via `pip` if they are not already available. 
 
 ### Platform
--Developed and tested in a local Jupyter Notebook environment using CUDA resources
--Expected to run on Windows, macOS, and Linux without modification
+- Developed and tested in a local Jupyter Notebook environment using CUDA resources
+- Expected to run on Windows, macOS, and Linux without modification
 
 
 ## Map of the Repository
